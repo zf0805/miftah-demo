@@ -2,7 +2,7 @@
 
 Démonstration interactive du cycle de mainlevée bancaire. Le projet réunit dans une seule application les trois vues du POC MLV·SECURE : chargé de crédit, responsable bancaire et vérification publique.
 
-**Adresse de présentation :** à définir avec un domaine qui ne contient ni nom personnel ni `chatgpt.site`.
+**Démo publique :** https://zf0805.github.io/miftah-demo/
 
 Chaque visiteur démarre avec les données fictives de démonstration ; les dossiers qu'il crée restent dans son propre navigateur.
 
